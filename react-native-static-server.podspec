@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/futurepress/react-native-static-server.git", :tag => "v#{s.version}" }
+  s.source       = { :git => "https://github.com/yumikohey/react-native-static-server.git", :tag => "v#{s.version}" }
 
   s.source_files  = "ios/FPStaticServer/*.{h,m}"
 
